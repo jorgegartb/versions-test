@@ -34,6 +34,6 @@ SQL >
           browser
         order by
           visits desc
-        limit {{Int32(skip, 0)}},{{Int32(limit, 50)}}
+        limit {{Int32(skip, 0)}},{{Int32(limit, 60)}}
 
 
